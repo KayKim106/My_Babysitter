@@ -1,0 +1,1 @@
+db.mom.insert({"location":"Newjersey","Phone":"929-282-5837"});
